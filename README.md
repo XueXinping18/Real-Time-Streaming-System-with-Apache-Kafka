@@ -25,9 +25,9 @@ The pipeline simulates post-trade operations at a hedge fund. After trades are e
 The dashboard displays key metrics and charts that update every 5 seconds. Users can see total trades processed, notional value, fee breakdowns, and various analytical views of the trade flow.
 
 ### Real-Time Updates
-![Real-Time Demo1](screenshots/video1.mov)
+![Real-Time Demo1](screenshots/video1.gif)
 
-![Real-Time Demo2](screenshots/video2.mov)
+![Real-Time Demo2](screenshots/video2.gif)
 
 As new trades flow through the system, the dashboard automatically updates. The KPI numbers increment, charts adjust to show new data, and the trade table displays the most recent transactions.
 
